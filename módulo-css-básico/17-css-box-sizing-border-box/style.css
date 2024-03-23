@@ -1,0 +1,18 @@
+div {
+    width: 300px;
+    height: 200px;
+    padding: 10px;
+    border: 10px solid green
+}
+.com-border-box {
+    background-color: aquamarine;
+    box-sizing: border-box;
+}
+
+.sem-border-box {
+    background-color: brown;
+}
+/* ]    width: largura
+        height: altura
+         box-sizing: border-box: ele pratcamnete ignora o padding e border
+         */

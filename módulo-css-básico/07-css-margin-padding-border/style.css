@@ -1,0 +1,13 @@
+   p {
+    margin: 30px 15px;
+    padding: 25px;
+    background-color: blanchedalmond;
+    border: 10px solid brown;
+   }
+   h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow';
+
+    border-style: solid;
+    border-width: 10px;
+    border-color: beige cyan peru blueviolet;
+   }
